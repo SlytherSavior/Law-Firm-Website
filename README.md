@@ -21,6 +21,7 @@ The repository contains the following files:
 - `about.html`: The About Us page providing information about the firm and its partners.
 - `service.html`: The Services page detailing the legal services offered by the firm.
 - `contact.html`: The Contact Us page with contact details and a form for inquiries.
+- `blog.html`: The Blog page of thbe website! .
 - `style.css`: The CSS file containing the styles for the website.
 
 ## Usage

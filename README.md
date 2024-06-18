@@ -1,6 +1,6 @@
 # MSP Firm Website
 
-Welcome to the MSP Firm's website repository. This project contains the HTML and CSS files for the official website of MSP Firm, Nepal's biggest law firm.
+Welcome to the MSP Firm's website repository. This project contains the HTML and CSS files for the official website of MSP Firm, designed by Me! . 
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Welcome to the MSP Firm's website repository. This project contains the HTML and
 
 ## Project Overview
 
-MSP Firm is a nationally recognized law firm in Nepal, known for securing some of the largest settlements and verdicts. This repository includes the front-end files for the firm's website, providing information about the firm's services, team, and contact details.
+MSP Firm is a nationally recognized law firm in Nepal, known for securing some of the largest settlements and verdicts. This repository includes the front-end files for the firm's website, providing information about the firm's services, team, and contact details. ( Of course everything about the firm and content of the webpage is fake data used for the projects , there is no such MSP Firm that exists ) !
 
 ## File Structure
 

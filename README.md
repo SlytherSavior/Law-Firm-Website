@@ -1,19 +1,19 @@
-# MSP Firm Website
+# MSP Firm Website 🌐
 
-Welcome to the MSP Firm's website repository. This project contains the HTML and CSS files for the official website of MSP Firm, designed by Me! . 
+Welcome to the MSP Firm's website repository! This project contains the HTML and CSS files for the official website of MSP Firm, designed by Me! 🎨
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [File Structure](#file-structure)
-- [Usage](#usage)
+- [Technologies Used](#technologies-used)
 - [License](#license)
 
 ## Project Overview
 
-MSP Firm is a nationally recognized law firm in Nepal, known for securing some of the largest settlements and verdicts. This repository includes the front-end files for the firm's website, providing information about the firm's services, team, and contact details. ( Of course everything about the firm and content of the webpage is fake data used for the projects , there is no such MSP Firm that exists ) !
+MSP Firm is a nationally recognized law firm in Nepal, known for securing some of the largest settlements and verdicts. This repository includes the front-end files for the firm's website, providing information about the firm's services, team, and contact details. (Of course, everything about the firm and content of the webpage is fake data used for the project. There is no such MSP Firm that exists! 😄)
 
-## File Structure
+## File Structure 📂
 
 The repository contains the following files:
 
@@ -21,9 +21,16 @@ The repository contains the following files:
 - `about.html`: The About Us page providing information about the firm and its partners.
 - `service.html`: The Services page detailing the legal services offered by the firm.
 - `contact.html`: The Contact Us page with contact details and a form for inquiries.
-- `blog.html`: The Blog page of thbe website! .
+- `blog.html`: The Blog page of the website.
 - `style.css`: The CSS file containing the styles for the website.
 
-## License
+## Technologies Used 💻
+
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the content.
+- **Google Fonts**: For typography.
+- **Font Awesome**: For icons.
+
+## License 📜
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.

@@ -1,48 +1,36 @@
-# Law-Firm-Website
-# Law Firm Website
+# MSP Firm Website
 
-Welcome to the official repository for the website of MSP Firm, designed and developed by me. This website aims to provide a user-friendly experience, especially on mobile devices, and presents a professional and consistent look across all pages.
+Welcome to the MSP Firm's website repository. This project contains the HTML and CSS files for the official website of MSP Firm, Nepal's biggest law firm.
 
-## Features
+## Table of Contents
 
-- **Mobile-First Design:**
-  - The website is built using mobile-first CSS to ensure a seamless experience on various devices.
+- [Project Overview](#project-overview)
+- [File Structure](#file-structure)
+- [Usage](#usage)
+- [License](#license)
 
-- **Aesthetics:**
-  - Carefully chosen colors, imagery, contrast, and sizing to enhance the visual appeal of the website.
+## Project Overview
 
-- **User Experience:**
-  - Content is thoughtfully arranged to improve user experience and accessibility.
+MSP Firm is a nationally recognized law firm in Nepal, known for securing some of the largest settlements and verdicts. This repository includes the front-end files for the firm's website, providing information about the firm's services, team, and contact details.
 
-- **Consistency:**
-  - Pages are designed to be consistent across the entire website, creating a cohesive and unified online presence for the law firm.
+## File Structure
 
-## Pages
+The repository contains the following files:
 
-1. **Home:**
-   - Introduction to the law firm, highlighting key areas of expertise and a welcoming message.
+- `index.html`: The homepage of the website.
+- `about.html`: The About Us page providing information about the firm and its partners.
+- `service.html`: The Services page detailing the legal services offered by the firm.
+- `contact.html`: The Contact Us page with contact details and a form for inquiries.
+- `style.css`: The CSS file containing the styles for the website.
 
-2. **About Us:**
-   - Information about the team at MSP, their experience, and the firm's values.
+## Usage
 
-3. **Services:**
-   - Details about the legal services offered by the firm.
+- **Homepage**: The `index.html` file serves as the homepage, featuring an introduction to the firm and navigation links to other sections.
+- **About Us**: The `about.html` file provides detailed information about the firm, its history, and the partners.
+- **Services**: The `service.html` file outlines the various legal services offered by MSP Firm.
+- **Contact Us**: The `contact.html` file includes contact details and a form for users to send inquiries.
+- **Styles**: The `style.css` file contains the styling rules for the website's appearance.
 
-4. **Contact:**
-   - Contact information and a contact form for clients and inquiries.
+## License
 
-5. **Blog:**
-   - A space for legal articles, updates, and relevant information.
-
-## Repository Structure
-
-law-firm-website/
-│
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-├── blog.html
-├── css/
-│ └── styles.css
-└── README.md
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.

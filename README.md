@@ -24,14 +24,6 @@ The repository contains the following files:
 - `blog.html`: The Blog page of thbe website! .
 - `style.css`: The CSS file containing the styles for the website.
 
-## Usage
-
-- **Homepage**: The `index.html` file serves as the homepage, featuring an introduction to the firm and navigation links to other sections.
-- **About Us**: The `about.html` file provides detailed information about the firm, its history, and the partners.
-- **Services**: The `service.html` file outlines the various legal services offered by MSP Firm.
-- **Contact Us**: The `contact.html` file includes contact details and a form for users to send inquiries.
-- **Styles**: The `style.css` file contains the styling rules for the website's appearance.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
